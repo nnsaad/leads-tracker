@@ -1,5 +1,10 @@
 # Leads Tracker
 
+## Author
+
+** Saad Khan Jadoon **
+[LinkedIn](https://au.linkedin.com/)
+
 Quick start:
 
 ```
