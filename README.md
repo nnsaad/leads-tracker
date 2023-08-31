@@ -2,7 +2,7 @@
 
 ## Author
 
-** Saad Khan Jadoon **
+** SAAD KHAN JADOON **
 [LinkedIn](https://au.linkedin.com/)
 
 Quick start:
